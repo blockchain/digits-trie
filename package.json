@@ -1,6 +1,6 @@
 {
   "name": "digits-trie",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Fast prefix operations for strings of digits",
   "main": "src.js",
   "scripts": {
