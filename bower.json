@@ -1,7 +1,7 @@
 {
   "name": "digits-trie",
-  "version": "1.0.0",
-  "homepage": "https://github.com/Ahimta/digits-trie",
+  "version": "1.0.1",
+  "homepage": "https://github.com/blockchain/digits-trie",
   "authors": [
     "Abdullah Alansari <ahimta@gmail.com>"
   ],
